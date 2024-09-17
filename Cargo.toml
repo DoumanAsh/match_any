@@ -1,0 +1,16 @@
+[package]
+name = "visit_any"
+version = "1.0.0"
+authors = ["Douman <douman@gmx.se>"]
+edition = "2018"
+description = "Macro to generate matcher for Any"
+readme = "README.md"
+repository = "https://github.com/DoumanAsh/visit_any"
+license = "BSL-1.0"
+categories = ["no-std"]
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+    "README.md",
+    "LICENSE"
+]
